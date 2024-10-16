@@ -21,7 +21,7 @@ This repository contains a simple Notepad application built using Python's Tkint
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/notepad.git
+   git clone https://github.com/riteshranjansah/notepad.git
    cd notepad
    ```
 
